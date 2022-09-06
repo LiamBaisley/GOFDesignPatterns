@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Behavioural.StrategyPattern.csproj",
-      "projectName": "Behavioural.StrategyPattern",
-      "projectPath": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Behavioural.StrategyPattern.csproj",
+      "projectUniqueName": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\Creational.Factory\\Creational.Factory.csproj",
+      "projectName": "Creational.Factory",
+      "projectPath": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\Creational.Factory\\Creational.Factory.csproj",
       "packagesPath": "C:\\Users\\liamba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\StrategyPattern\\obj\\",
+      "outputPath": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\Creational.Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\liamba\\AppData\\Roaming\\NuGet\\NuGet.Config",

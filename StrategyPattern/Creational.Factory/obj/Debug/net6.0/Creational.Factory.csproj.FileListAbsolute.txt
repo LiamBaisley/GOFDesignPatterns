@@ -1,0 +1,14 @@
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\bin\Debug\net6.0\Creational.Factory.exe
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\bin\Debug\net6.0\Creational.Factory.deps.json
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\bin\Debug\net6.0\Creational.Factory.runtimeconfig.json
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\bin\Debug\net6.0\Creational.Factory.dll
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\bin\Debug\net6.0\ref\Creational.Factory.dll
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\bin\Debug\net6.0\Creational.Factory.pdb
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.AssemblyInfoInputs.cache
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.AssemblyInfo.cs
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.csproj.CoreCompileInputs.cache
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.dll
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\ref\Creational.Factory.dll
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.pdb
+C:\Users\liamba\OneDrive - Derivco (Pty) Limited\Documents\dev\DesignPatterns\StrategyPattern\Creational.Factory\obj\Debug\net6.0\Creational.Factory.genruntimeconfig.cache

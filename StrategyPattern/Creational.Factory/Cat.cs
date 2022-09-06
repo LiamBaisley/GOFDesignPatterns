@@ -1,17 +1,16 @@
-﻿using Behvaioural.StrategyPattern;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Behavioural.StrategyPattern
+namespace Creational.Factory
 {
-    internal class Dog : IAnimal
+    internal class Cat : IAnimal
     {
         public string MakeSound()
         {
-            return "Bork Bork!";
+            return "Meow Meow!";
         }
     }
 }

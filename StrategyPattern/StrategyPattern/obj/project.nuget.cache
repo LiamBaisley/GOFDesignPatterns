@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "joua6maYCx4i7dZLaEGJ4VmtWKIrpoQMjkXnFkAaXuPhcdRYCVW5iXir+XEh+rHLd6uemWRnGbS26+4vm5vy8w==",
+  "dgSpecHash": "Llif8y8SjXqMrmn5lAQvMT5SYQR8Ih6IXOrzLtup9GnW8S2V9jAYiwg3VnrV/qY2iuztOZT/4OEKowcnLFL1wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "C:\\Users\\liamba\\OneDrive - Derivco (Pty) Limited\\Documents\\dev\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Behavioural.StrategyPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,4 @@
-﻿using StrategyPattern;
+﻿using Behavioural.StrategyPattern;
 
 //Set the strategy to dog
 AnimalContext context = new AnimalContext(new Dog());
