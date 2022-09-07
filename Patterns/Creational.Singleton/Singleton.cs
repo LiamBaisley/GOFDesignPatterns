@@ -16,6 +16,7 @@ namespace Creational.Singleton
         {
             get
             {
+                //Create a new instance if one doesn't exist yet
                 if(instance == null)
                     instance = new Singleton();
                 return instance;
