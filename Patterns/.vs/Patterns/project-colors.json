@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f5b96a4-b30b-4f50-8790-295a8bd65624": {
+      "ProjectGuid": "5f5b96a4-b30b-4f50-8790-295a8bd65624",
+      "DisplayName": "Behavioural.StrategyPattern",
+      "ColorIndex": 0
+    },
+    "0dfe07c1-0381-47c5-8022-1a53ba17d320": {
+      "ProjectGuid": "0dfe07c1-0381-47c5-8022-1a53ba17d320",
+      "DisplayName": "Creational.Factory",
+      "ColorIndex": 1
+    },
+    "efc857d9-792c-4718-8427-d7361df86edb": {
+      "ProjectGuid": "efc857d9-792c-4718-8427-d7361df86edb",
+      "DisplayName": "Creational.Singleton",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
