@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Mediator", "Beh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.StrategyPattern", "Behavioural.StrategyPattern\Behavioural.StrategyPattern.csproj", "{C73BF110-5103-4C73-BA92-9970A68FAF8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Composite", "Structural.Composite\Structural.Composite.csproj", "{F4FFC496-9F99-4463-8E15-75AF007B881A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Composite", "Structural.Composite\Structural.Composite.csproj", "{F4FFC496-9F99-4463-8E15-75AF007B881A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Proxy", "Structural.Proxy\Structural.Proxy.csproj", "{DFD66D18-AAF4-473C-86A9-63A4D0C74BF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F4FFC496-9F99-4463-8E15-75AF007B881A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4FFC496-9F99-4463-8E15-75AF007B881A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4FFC496-9F99-4463-8E15-75AF007B881A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD66D18-AAF4-473C-86A9-63A4D0C74BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD66D18-AAF4-473C-86A9-63A4D0C74BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD66D18-AAF4-473C-86A9-63A4D0C74BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD66D18-AAF4-473C-86A9-63A4D0C74BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
