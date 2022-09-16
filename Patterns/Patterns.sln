@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Flyweight", "Str
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Facade", "Structural.Facade\Structural.Facade.csproj", "{418CD793-1715-49EE-8AF4-C9458D4FB258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Builder", "Structural.Builder\Structural.Builder.csproj", "{0FFA1EE1-B104-404E-A657-1D6BA5E293B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Builder", "Structural.Builder\Structural.Builder.csproj", "{0FFA1EE1-B104-404E-A657-1D6BA5E293B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Decorator", "Structural.Decorator\Structural.Decorator.csproj", "{F25835E8-F7C2-4E03-8165-928FF036BFF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Decorator", "Structural.Decorator\Structural.Decorator.csproj", "{F25835E8-F7C2-4E03-8165-928FF036BFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.TemplateMethod", "Behavioural.TemplateMethod\Behavioural.TemplateMethod.csproj", "{CC5FB050-134F-4E84-AEE2-4E752154A24B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{F25835E8-F7C2-4E03-8165-928FF036BFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F25835E8-F7C2-4E03-8165-928FF036BFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F25835E8-F7C2-4E03-8165-928FF036BFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5FB050-134F-4E84-AEE2-4E752154A24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5FB050-134F-4E84-AEE2-4E752154A24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5FB050-134F-4E84-AEE2-4E752154A24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5FB050-134F-4E84-AEE2-4E752154A24B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
