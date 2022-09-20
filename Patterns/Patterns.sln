@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.TemplateMethod"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.ChainOfResponsibility", "Behavioural.ChainOfResponsibility\Behavioural.ChainOfResponsibility.csproj", "{ED89725A-B590-493F-A1D9-C1DD107718FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Observer", "Behavioural.Observer\Behavioural.Observer.csproj", "{92D9CC72-24BE-49ED-A76B-CE2C78388B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{ED89725A-B590-493F-A1D9-C1DD107718FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED89725A-B590-493F-A1D9-C1DD107718FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED89725A-B590-493F-A1D9-C1DD107718FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
