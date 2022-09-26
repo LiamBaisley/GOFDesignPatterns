@@ -33,9 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Decorator", "Str
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.TemplateMethod", "Behavioural.TemplateMethod\Behavioural.TemplateMethod.csproj", "{CC5FB050-134F-4E84-AEE2-4E752154A24B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.ChainOfResponsibility", "Behavioural.ChainOfResponsibility\Behavioural.ChainOfResponsibility.csproj", "{ED89725A-B590-493F-A1D9-C1DD107718FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.ChainOfResponsibility", "Behavioural.ChainOfResponsibility\Behavioural.ChainOfResponsibility.csproj", "{ED89725A-B590-493F-A1D9-C1DD107718FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Observer", "Behavioural.Observer\Behavioural.Observer.csproj", "{92D9CC72-24BE-49ED-A76B-CE2C78388B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Observer", "Behavioural.Observer\Behavioural.Observer.csproj", "{92D9CC72-24BE-49ED-A76B-CE2C78388B05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Command", "Behavioural.Command\Behavioural.Command.csproj", "{C5272E05-7EBC-49C0-8418-97A43BB28E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.State", "Behavioural.State\Behavioural.State.csproj", "{3B570F82-D36E-47C2-9849-C705913AA6F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92D9CC72-24BE-49ED-A76B-CE2C78388B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5272E05-7EBC-49C0-8418-97A43BB28E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5272E05-7EBC-49C0-8418-97A43BB28E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5272E05-7EBC-49C0-8418-97A43BB28E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5272E05-7EBC-49C0-8418-97A43BB28E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B570F82-D36E-47C2-9849-C705913AA6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B570F82-D36E-47C2-9849-C705913AA6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B570F82-D36E-47C2-9849-C705913AA6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B570F82-D36E-47C2-9849-C705913AA6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
