@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Command", "Beha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.State", "Behavioural.State\Behavioural.State.csproj", "{3B570F82-D36E-47C2-9849-C705913AA6F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Visitor", "Behavioural.Visitor\Behavioural.Visitor.csproj", "{3CFAD21B-C561-4FBB-9952-381771F1AD15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Visitor", "Behavioural.Visitor\Behavioural.Visitor.csproj", "{3CFAD21B-C561-4FBB-9952-381771F1AD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Interpreter", "Behavioural.Interpreter\Behavioural.Interpreter.csproj", "{24193148-4904-40A6-AC68-92F09F407193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{3CFAD21B-C561-4FBB-9952-381771F1AD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CFAD21B-C561-4FBB-9952-381771F1AD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CFAD21B-C561-4FBB-9952-381771F1AD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24193148-4904-40A6-AC68-92F09F407193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24193148-4904-40A6-AC68-92F09F407193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24193148-4904-40A6-AC68-92F09F407193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24193148-4904-40A6-AC68-92F09F407193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
